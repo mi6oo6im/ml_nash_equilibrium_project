@@ -19,3 +19,8 @@ o Experiment doesn't work ⇒ Fix experiment
 · Results don't align with hypothesis ⇒ new question, new hypothesis
 
 · Communicate the results
+
+|          | B does X | B does Y |
+|----------|----------|----------|
+| A does X | 6, 7     | 1,2      |
+| A does Y | 3, 1     | 9, 6     |
