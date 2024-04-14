@@ -1,1 +1,1 @@
-# Nash Equilibrium in non-zero-sum 
+# Nash Equilibrium in non-zero-sum games
