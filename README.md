@@ -1,1 +1,1 @@
-# ml_nash_equalibrium_project
+# Nash Equilibrium in non-zero-sum 
