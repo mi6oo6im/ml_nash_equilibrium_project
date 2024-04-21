@@ -23,13 +23,13 @@ The aim of this project is to explore the applicability and effectiveness of the
 	- Identification of specific game scenarios of non-zero-sum competitive interactions.
 	- Description of each game scenario and its strategic dynamics.
 6. Implementation of Nash Equilibrium Strategies:
-	- Methodology for implementing Nash equilibrium strategies in non-zero sum games.
+	- Methodology for implementing Nash equilibrium strategies in non-zero-sum games.
 	- Computational techniques and software tools for analyzing equilibrium outcomes.
 7. Simulation Results:
 	- Presentation of simulation results for the selected game scenarios.
 	- Analysis of equilibrium strategies and outcomes.
 8. Comparison with Alternative Strategies:
-	- Comparison of Nash equilibrium strategies with alternative approaches in non-zero sum games.
+	- Comparison of Nash equilibrium strategies with alternative approaches in non-zero-sum games.
 	- Evaluation of the effectiveness and robustness of Nash equilibrium solutions.
 9. Implications for Strategic Decision Making:
 	- Insights into the practical implications of Nash equilibrium in real-world competitive environments.
