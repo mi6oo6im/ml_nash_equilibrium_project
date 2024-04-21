@@ -5,7 +5,7 @@
 The aim of this project is to explore the applicability and effectiveness of the Nash Equilibrium concept in non-zero-sum competitive games such as Prisoner's dilemma, Battle of the Sexes, Deadlock, etc. By analyzing various game scenarios and implementing Nash equilibrium strategies, the project seeks to prove that the mutual benefits of equilibrium outcomes are superior compared to purely competitive strategies or best outcome actions in long-term competitive interactions.
 
 
-### Plan-conspectus:
+### Plan-conspect:
 
 1. Introduction to Game Theory: 
 	- What is Game Theory?
