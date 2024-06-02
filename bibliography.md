@@ -5,7 +5,6 @@ https://www.britannica.com/science/Nash-equilibrium - Nash equilibrium.  2024 En
 
 ### Wikipedia:
 https://en.wikipedia.org/wiki/Game_theory - Game theory. Wikipedia <br>
-https://en.wikipedia.org/wiki/Stochastic_game - Stochastic game (or Markov game). Wikipedia <br>
 https://en.wikipedia.org/wiki/Nash_equilibrium - Nash equilibrium. Wikipedia
 
 ### Papers with code:
