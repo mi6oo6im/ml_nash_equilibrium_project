@@ -8,10 +8,6 @@ https://en.wikipedia.org/wiki/Game_theory - Game theory. Wikipedia <br>
 https://en.wikipedia.org/wiki/Nash_equilibrium - Nash equilibrium. Wikipedia
 
 ### Papers with code:
-https://paperswithcode.com/paper/nash-equilibria-and-pitfalls-of-adversarial - Nash Equilibria and Pitfalls of Adversarial Training in Adversarial Robustness Games <br>
-https://paperswithcode.com/paper/nash-equilibria-in-greenhouse-gas-offset - Nash Equilibria in Greenhouse Gas Offset Credit Markets <br>
-https://paperswithcode.com/paper/non-zero-sum-game-control-for-multi-vehicle - Non-zero-sum Game Control for Multi-vehicle Driving via Reinforcement Learning <br>
-https://paperswithcode.com/paper/zero-sum-games-between-mean-field-teams-a - Zero-Sum Games between Large-Population Teams: Reachability-based Analysis under Mean-Field Sharing <br>
 https://paperswithcode.com/paper/nash-equilibrium-existence-without-convexity - Nash Equilibrium Existence without Convexity.
 
 ### Arxiv:
