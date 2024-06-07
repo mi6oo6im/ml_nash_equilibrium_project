@@ -25,3 +25,6 @@ https://arxiv.org/abs/2403.12095 - Cooperation in a non-Ergodic World on a Netwo
 ### Other:
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/index.html - Game Theory, By Janet Chen, Su-I Lu, and Dan Vekhter, Stanford University.
 (Janet Chen, Su-I Lu, Dan Vekhter, 1999; Game Theory)
+
+https://www.nobelprize.org/prizes/lists/all-prizes-in-economic-sciences/all/ - Nobel price winners in economic sciense 1901-2023, 2024
+(The Nobel Price, 2024; Nobel price winners in economic sciense 1901-2023)
