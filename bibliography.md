@@ -19,8 +19,6 @@ https://paperswithcode.com/paper/nash-equilibrium-existence-without-convexity - 
 ### Arxiv:
 https://arxiv.org/abs/2405.03518 - Reinforcement Nash Equilibrium Solver <br>
 (Xinrun Wang, Chang Yang, Shuxin Li, Pengdeng Li, Xiao Huang, Hau Chan, Bo An, 2024; Reinforcement Nash Equilibrium Solver)<br>
-https://arxiv.org/abs/2403.12095 - Cooperation in a non-Ergodic World on a Network -- Insurance and Beyond <br>
-(Tobias Wand, Oliver Kamps, Benjamin Skjold, 2024; Cooperation in a non-Ergodic World on a Network -- Insurance and Beyond)
 
 ### Other:
 https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/index.html - Game Theory, By Janet Chen, Su-I Lu, and Dan Vekhter, Stanford University.
