@@ -1,4 +1,4 @@
-# Bibliography:
+# Sources:
 ### Encyclopedia Britannica:
 https://www.britannica.com/science/game-theory - Game theory.  2024 Encyclopædia Britannica, Inc. Corporate Site. All rights reserved. 
 (Encyclopædia Britannica, Inc. Corporate Site.,2024; Game theory)
